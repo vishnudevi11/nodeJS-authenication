@@ -15,8 +15,9 @@ npm install
 ````
 npm start
 ````
-**Local Browser-**http://localhost:3030/
-**Hosted Link-**https://nodejs-auth-cj22.onrender.com
+Local Browser-http://localhost:3030/
+
+Hosted Link-https://nodejs-auth-cj22.onrender.com
 ________________________________________________________________________________________________________________________
 ## **Teck Stack**
 * NodeJS
